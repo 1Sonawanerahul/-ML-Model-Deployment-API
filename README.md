@@ -14,6 +14,7 @@
 
 ## Reqirements
   `pip install flask` -Flask==2.3.3
+  `pip install django` -Django==4.2.7
   `pip install pandas as pd` -pandas==2.0.3
   `pip install numpy as np` -numpy==1.24.3
   `pip install scikit-learn` -scikit-learn==1.3.0
